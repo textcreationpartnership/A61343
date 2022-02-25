@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The state of the case betwixt Mr. Sacheverel and Mr. Vernon touching the election of a knight of the shire for the county of Derby, in the place of Iohn Milward esq; deceased.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61343</idno>
+            <idno type="STC">Wing S5309</idno>
+            <idno type="STC">ESTC R222158</idno>
+            <idno type="EEBO-CITATION">99833384</idno>
+            <idno type="PROQUEST">99833384</idno>
+            <idno type="VID">37860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37860)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2198:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The state of the case betwixt Mr. Sacheverel and Mr. Vernon touching the election of a knight of the shire for the county of Derby, in the place of Iohn Milward esq; deceased.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sacheverell, William, 1638-1691 --  Early works to 1800.</term>
+               <term>Vernon, --  Mr., fl. 1670 --  Early works to 1800.</term>
+               <term>Elections --  England --  Derbyshire --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:37860:1" rendition="simple:additions"/>
+            <head>The ſtate of the Caſe betwixt Mr. <hi>Sacheverel</hi> and Mr. <hi>Vernon</hi> touching the Election of a Knight of the Shire for the County of <hi>Derby,</hi> in the place of John <hi>Milward</hi> 
+               <abbr>Eſq</abbr> deceaſed.</head>
+            <p>
+               <hi>THurſday</hi> the 24<hi>th.</hi> of <hi>November</hi> laſt being the County Court day, the High Sheriff went to the County Hall, and immediately after his coming thither, the Writ for Election was delivered to him by a ſpecial Meſſenger from the Lord Keeper by whoſe permiſſ on notice had been given and publiſhed in moſt of the Market towns of that County, on the reſpective market dayes that the ſaid Writ for Election would be delivered to the Sheriff on or before the ſaid 24<hi>th.</hi> of <hi>November,</hi> ſo as that there might be an Election made that day at the ſaid County Hall.</p>
+            <p>As ſoon as the Sheriff had received that Writ, he cauſed Proclamation to be made, that he did intend that day about ten of the clock, and at the ſaid Hall to proceed to an Election according to the directions of that Writ.</p>
+            <p>That done, the Sheriff then cauſed his Court to be called, and after entry of an action or two cauſed Pro<g ref="char:EOLhyphen"/>clamation to be made in the Court to the ſame effect as before was done, and ſo ſtaying in the Court till about ten of the clock, did then read the Writ, After the reading whereof a ſhout for Election was given, and upon it a Poll demanded by Mr. <hi>Vernon,</hi> and then the Sheriff declaring that Mr. <hi>Sacheverel</hi> and Mr. <hi>Ver<g ref="char:EOLhyphen"/>non</hi> were the only perſons that he heard in nomination, and his good opinion of both of them, gave his Vote for Mr. <hi>Sacheverel.</hi>
+            </p>
+            <p>After this at Mr. <hi>Vernons</hi> deſire the Court was adjourned to the Market Croſs, and the Writ was read there again, and a like ſhout being given as was at the Hall, the Sheriff deſired Mr. <hi>Sacheverel</hi> and Mr. <hi>Ver<g ref="char:EOLhyphen"/>non</hi> that one of them would go to the upper ſide, and the other to the lower ſide of the Market place, that a view might be taken. which Mr. <hi>Vernon</hi> refuſed, and demanded a Poll and had it immediately granted, and ſo went to the Town Hall, but Mr. <hi>Sacheverel</hi> went off to the lower ſide of the Market place, and it then ap<g ref="char:EOLhyphen"/>peared (as it did the night before upon the coming in of the Free-holders) that Mr. <hi>Sacheverel</hi> had far the greater number.</p>
+            <p>Before the Poll began, the Sheriff (to the intent that a fair and juſt Poll might be taken, and that all per<g ref="char:EOLhyphen"/>ſons might come to it with eaſe) propos'd to Poll by Hundreds and Towns, and to begin firſt with the re<g ref="char:EOLhyphen"/>moteſt Hundreds and remoteſt towns in thoſe Hundreds, and ſo to proceed and to ſet up the names of thoſe towns that all perſons, ſeeing in what order the towns names ſhood, might come up with eaſe and regularly: To which propoſition Mr. <hi>Sacheverel</hi> conſented but Mr. <hi>Vernon</hi> refuſed it, declaning he would Poll no way but promiſcuouſly.</p>
+            <p>Now the place where the Poll was then to be (and during memory had ever been) taken, conſiſting of two chambers, and there being a door and a large pair of ſtairs to come up into the outward chamber, and a back door and ſmaller pair of ſtairs to paſs down out of the inner chamber, and all free-holders (ſaving ſome gentry or aged perſons by conſent) having been uſed time out of mind, to be admitted to come in at the great door in the outward chamber, and when they had given Votes in the inward chamber, then to be let out at the back door in that inward chamber: It was agreed that the Poll ſhould be taken in the inward chamber, and that as many free-holders of thoſe that ſhould be next the door of the outward chamber as it would well hold ſhould be admitted into it, and then as formerly had alſo been uſed the door to be kept ſhut, till thoſe had Poled, and then they to go down out at the back door in the inner chamber, and as many more to be admitted in the ſame manner into the outward chamber, and ſo to proceed while the Poll laſted, And it was further agreed, that the Gentry, the Clergy, and ſome aged perſons ſhould (as formerly had been uſed) be at ſeaſonable times admitted in at the back door, if it was deſired.</p>
+            <p>This being done, and the Poll beginning, and Mr. <hi>Sacheverel</hi> ſeeing ſome perſons come in as Voters for Mr. <hi>Vernon,</hi> who neither reſided in that County, nor had therein any freehold in their own occupation. He at firſt excepted againſt them, and alſo againſt ſuch as had no Eſtates but Copy hold in antient demeſne, and declared that he conceived that by divers Statutes, (<hi>viz.</hi> 8. <hi>Hen.</hi> 6. <hi>Cap.</hi> 7. and the firſt of <hi>Hen.</hi> 5. C<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and the firſt <hi>Hen.</hi> 6. <hi>Cap.</hi> 2.) Such non-reſiants and Copyholders had no Votes. But it was highly inſiſted on by Mr. <hi>Vernon</hi> and his friends that they had Votes, and Mr. <hi>Sacheverel</hi> perceiving that a quiet Poll could not be had without entring of the names of ſuch non-reſiants and Copyholders, he did conſent that, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eſſe the names and places of aboad of ſuch non-reſidents ſhould be ſet down, and for whom they would Vote, and alſo that <hi>de bene eſſe</hi> the names of ſuch Copyholders ſhould be ſet down, and for whom they would vote; ſo as it might be expreſſed in the book that they were only ſuch Copyholders, and not be ſet down as Freeholders, which was done accordingly, and Mr. <hi>Vernon</hi> had neer thirty, and Mr. <hi>Sacheverel</hi> but three, of ſuch Copyholders names entred.</p>
+            <p>Now the Poll going forward, about five hundred votes were taken that <hi>Thursday,</hi> and that day Mr. <hi>Sa<g ref="char:EOLhyphen"/>cheverel</hi> out went Mr. <hi>Vernon</hi> one hundred and fifty Votes.</p>
+            <p>On <hi>Fryday</hi> the Poll continued all day, and about a thouſand Votes were taken, and that night at the ri<g ref="char:EOLhyphen"/>ſing of the Court, when it was adjourned till next morning, Mr. <hi>Sacheverel</hi> had in the whole out gone Mr. <hi>Vernon</hi> about two hundred and fifty Votes.</p>
+            <p>On <hi>Saturday</hi> the Poll continuing, about eleven hundred Votes were taken, Mr. <hi>Vernon</hi> being preſent all that day in Court, as he had been all the time of Poll on the two proceeding dayes, and the Sheriff Poled on <hi>Saturday</hi> night till Mr. <hi>Vernon</hi> had not one vote left at the door, and, Mr. <hi>Vernon</hi> having that day Poled above four hundred, did that night poll his Clerks, and then the Court was adjourned till <hi>Munday</hi> morning, and on <hi>Saturday</hi> night when the Court was adjorned, Mr. <hi>Sacheverel</hi> had in the whole out gone Mr. <hi>Vernon</hi> neer four hundred Votes.</p>
+            <p>On <hi>Munday</hi> morning before the Sheriff went to Court he ſent one as he had done the other days of Poll. to acquaint Mr. <hi>Vernon</hi> that he was ready to go to the Court. Mr. <hi>Vernon</hi> returned anſwer he would come there no more, to the Sheriff went, and this day about three hundred Votes were taken, many whereof Vo<g ref="char:EOLhyphen"/>ted for Mr. <hi>Vernon</hi> as by the book will appear. And all at the door being Polld, the Sheriff cauſed Procla<g ref="char:EOLhyphen"/>mation to be made, born at the Market Croſs, and in moſt ſtreets of the town, that if any Freeholder deſi<g ref="char:EOLhyphen"/>red to give a Vote, he might come to the Court and it ſhould be received, and the Sheriff ſitting a conſide<g ref="char:EOLhyphen"/>rable time in Court, and none coming in to Vote, the Court was adjourned till one of the Clock, and then the Sheriff returning to Court, cauſed a like Proclamation to be made, and no one coming in, adjourned to the County Hall, and there cauſed Proclamation to be made again to the like effect, and none coming, the books were caſt up, by which it appeared, that if the above ſaid Copyholders and non-reſidents ſhould <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> allowed good Votes, Yet that nevertheleſs Mr. <hi>Sacheverel</hi> had ſix hundred forty five Votes more then Mr. <hi>Vernon,</hi> which the Sheriff declared, and accordingly return'd Mr. <hi>Sacheverel.</hi>
+            </p>
+            <p>During all the Poll, every perſon that would ſwear he had forty ſhllings a year freehold in the County above repriſes and rendred his Vote, had his name and Vote entred.</p>
+            <p>As for the Clergy and ſome Gentry of known eſtates, their Votes by conſent of both ſides were take<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without oath, but every other perſon whoſe name and Vote is entred in the Poll Book (except the Cop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> holders above mentioned) did ſwear he had forty ſhillings a year Freehold in that Country, above repriz<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
